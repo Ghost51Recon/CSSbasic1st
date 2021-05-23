@@ -8,12 +8,12 @@ h1 {
 }
 
 p {
-  color: rgb(207, 71, 71);
+  color: rgb(252, 252, 252);
   font-family: verdana;
   font-size: 20px;
 }
 
-#div1 {
+.div1 {
   background-color: #531086;
   padding-top: 50px;
   padding-right: 30px;
